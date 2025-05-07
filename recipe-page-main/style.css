@@ -1,0 +1,80 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Young+Serif: wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Young+Serif:wght400,600,700&display=swap");
+
+h1{
+    font-size: 20px;
+    font-weight: 700;
+
+}
+img{
+    height: 300px;
+    width: 700px;
+    justify-content: center;
+}
+
+.container{
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    margin: 30px;
+   background-color:rgba(255, 255, 255, 0.705);
+   border-radius: 20px;
+   font-family:outfit;
+   
+
+ }
+
+
+body{
+    max-width:1440px;
+    justify-content: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: hsl(31, 37%, 85%);
+    height: 100vh;
+        
+}
+.prep{
+    color: hsl(332, 51%, 32%);
+}
+
+h2{
+    color: hsl(14, 45%, 36%);
+    font-weight: 600;
+  
+}
+
+p{
+    font-size: 16px;
+    font-weight: 400;
+    color: hsl(13, 8%, 43%)
+}
+
+span{
+    font-weight: 900;
+    color: rgb(71, 67, 67);
+}
+
+li{
+    color: hsl(13, 8%, 43%) 
+}
+
+th{
+    padding: 10px ;
+
+}
+
+table{
+    border-collapse: collapse;
+}
+tr{
+    border-bottom: 1px solid grey;
+}
+td{
+    color: hsl(13, 8%, 43%)   
+}
+
+.cal{
+    color: hsl(14, 45%, 36%);
+}
